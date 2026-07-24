@@ -57,10 +57,15 @@ I am an Electronics and Communication Engineering student with a strong interest
 
 ---
 
-## Language Distribution
+## Language Snapshot
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambadyks&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+  <img src="https://img.shields.io/github/languages/top/ambadyks/ambadyks?style=for-the-badge" alt="Top language" />
+  <img src="https://img.shields.io/github/languages/count/ambadyks/ambadyks?style=for-the-badge" alt="Language count" />
+</p>
+
+<p align="left">
+  GitHub updates these badges automatically from the repository language breakdown.
 </p>
 
 ---
