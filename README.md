@@ -48,27 +48,6 @@ I am an Electronics and Communication Engineering student with a strong interest
 
 ---
 
-## Currently Learning
-
-- FPGA Design and Verification
-- Verilog HDL
-- Digital System Design
-- Hardware Debugging and Testing
-
----
-
-## Language Snapshot
-
-<p align="left">
-  <img src="https://img.shields.io/github/languages/top/ambadyks/ambadyks?style=for-the-badge" alt="Top language" />
-  <img src="https://img.shields.io/github/languages/count/ambadyks/ambadyks?style=for-the-badge" alt="Language count" />
-</p>
-
-<p align="left">
-  GitHub updates these badges automatically from the repository language breakdown.
-</p>
-
----
 
 ## Connect
 
