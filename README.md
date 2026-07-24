@@ -60,7 +60,7 @@ I am an Electronics and Communication Engineering student with a strong interest
 ## Language Distribution
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambadyks&layout=pie&theme=default" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambadyks&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
