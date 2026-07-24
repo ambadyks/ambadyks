@@ -57,15 +57,10 @@ I am an Electronics and Communication Engineering student with a strong interest
 
 ---
 
-##  Stats
+## Language Distribution
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ambadyks&show_icons=true&theme=default" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ambadyks" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambadyks&layout=compact&theme=default" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambadyks&layout=pie&theme=default" alt="Top Languages" />
 </p>
 
 ---
