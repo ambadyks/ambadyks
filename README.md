@@ -40,15 +40,10 @@ I am an Electronics and Communication Engineering student with a strong interest
 ## Tools & Technologies
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white"/>
   <img src="https://img.shields.io/badge/LTspice-900000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Quartus-0071C5?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Vivado-1793D1?style=for-the-badge&logo=xilinx&logoColor=white"/>
 </p>
 
 ---
@@ -62,7 +57,7 @@ I am an Electronics and Communication Engineering student with a strong interest
 
 ---
 
-## GitHub Statistics
+##  Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ambadyks&show_icons=true&theme=default" alt="GitHub Stats" height="165"/>
@@ -86,4 +81,3 @@ I am an Electronics and Communication Engineering student with a strong interest
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
-```
